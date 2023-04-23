@@ -1,0 +1,24 @@
+#divBotones{
+text-align: center;
+
+}
+
+html{
+background: rgb(0, 15, 128);
+
+}
+h2{
+    text-align: center;
+  text-decoration: solid;
+}
+
+p{
+    
+}
+
+body{
+    margin: 50px;
+    border: solid 1px black;
+    padding: 10px;
+    background: white ;
+}
